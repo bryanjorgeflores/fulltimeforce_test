@@ -52,22 +52,16 @@ A Flutter project for demonstrating a Pokémon application using PokeAPI.
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
+| Home Screen | Pokémon Details |
+|-------------|-----------------|
+| ![Home Screen](screenshots/home_screen.png) | ![Pokémon Details](screenshots/pokemon_details.png) |
 
-### Pokémon Details
-![Pokémon Details](screenshots/pokemon_details.png)
-
-### Pokémon Search
-![Pokémon Search](screenshots/pokemon_search.png)
-
-### Favorites
-![Favorites](screenshots/favorites.png)
+| Pokémon Search | Favorites |
+|----------------|-----------|
+| ![Pokémon Search](screenshots/pokemon_search.png) | ![Favorites](screenshots/favorites.png) |
 
 ## GIFs
 
-### Home Screen
-![Home Screen](gifs/home_screen.gif)
-
-### Pokémon Details
-![Pokémon Details](gifs/pokemon_details.gif)
+| Home Screen | Pokémon Details |
+|-------------|-----------------|
+| ![Home Screen](gifs/home_screen.gif) | ![Pokémon Details](gifs/pokemon_details.gif) |

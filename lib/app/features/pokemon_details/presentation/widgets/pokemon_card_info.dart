@@ -170,7 +170,7 @@ class _PokemonCardInfoState extends State<PokemonCardInfo> {
                     ),
                     SizedBox(height: 10),
                     Text(
-                      'Cry',
+                      'CRY',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 12,
